@@ -37,4 +37,3 @@ Predicted Output:
 - Mean Absolute Error: ₹ 20,500
 
 I have attached a screenshot of the web app showing the predicted house price output for the given inputs.
-http://172.20.10.3:8501
