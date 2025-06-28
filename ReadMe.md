@@ -1,5 +1,6 @@
 # 🏠 Mumbai House Price Prediction App
 This is a machine learning capstone project that predicts house prices in Mumbai based on input features like square feet, BHK, and location. The app uses Linear Regression and is built using Python and Streamlit.
+Try Project Live Here (App Link): http://172.20.10.3:8501
 
 ## Dataset
 The dataset contains real-estate listings from Mumbai with the following columns:
@@ -21,7 +22,7 @@ The dataset contains real-estate listings from Mumbai with the following columns
 3. Install required libraries using:
    pip install pandas scikit-learn streamlit
 4. Run the app using:
-   streamlit run app.py
+   streamlit run app.py  
 5. A new tab will open in your browser: Enter values
 6. Click Predict Price 
 
@@ -36,3 +37,4 @@ Predicted Output:
 - Mean Absolute Error: ₹ 20,500
 
 I have attached a screenshot of the web app showing the predicted house price output for the given inputs.
+http://172.20.10.3:8501
