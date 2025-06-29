@@ -1,6 +1,7 @@
 # 🏠 Mumbai House Price Prediction App
 This is a machine learning capstone project that predicts house prices in Mumbai based on input features like square feet, BHK, and location. The app uses Linear Regression and is built using Python and Streamlit.
-Try Project Live Here (App Link): http://172.20.10.3:8501
+## Try Project Live Here (App Link)
+https://mumbaihousepriceprediction-app-mmqrt4bdoyfmurgkhoc9ad.streamlit.app/
 
 ## Dataset
 The dataset contains real-estate listings from Mumbai with the following columns:
